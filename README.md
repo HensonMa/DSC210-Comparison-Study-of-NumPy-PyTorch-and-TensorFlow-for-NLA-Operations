@@ -5,9 +5,10 @@
 
 #### Instructions:
 - Ensure that the following libraries are installed in python 3 environment:
-  - NumPy
-  - PyTorch
-  - TensorFlow
+  - numpy
+  - torch
+  - tensorflow
+  - matplotlib
 
 - Ensure that CUDA is supported in your enviroment. 
 
