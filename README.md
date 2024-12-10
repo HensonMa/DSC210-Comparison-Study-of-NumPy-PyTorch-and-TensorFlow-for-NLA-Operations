@@ -14,10 +14,13 @@
 
 - Open each jupyter notebook file accordingly for different matrix operations and run all the cells of the notebook.
 
-#### Results
+### Results
 
-- Matrix Transpose
-- Matrix Multiplication
+#### Matrix Transpose
+
+![210transpose](https://github.com/user-attachments/assets/87982c81-53ce-4115-a778-f5f85242cd79)
+
+#### Matrix Multiplication
 
 Single matrix multiplication on CPU
 ![single_mm_result](https://github.com/user-attachments/assets/95f75be9-9bc3-4b73-8bd3-7343bb2ce00b)
@@ -33,3 +36,15 @@ Single matrix multiplication on GPU
 
 Repeated matrix multiplication on GPU
 ![repeated_mm_result_gpu](https://github.com/user-attachments/assets/4065ed8f-ef05-45b9-94a2-7b01ae3a710f)
+
+#### Eigenvalue decomposition (EVD)
+<img width="671" alt="EVD_results_3D" src="https://github.com/user-attachments/assets/0f0e0126-89a5-44d1-a1cc-6b06d96f7ce0">
+
+#### Singular value decomposition (SVD)
+
+Performance comparison of SVD implementations on dense matrices
+![uniform](https://github.com/user-attachments/assets/0647d6fd-e42d-4667-882d-7a85ccb64e70)
+
+Performance comparison of SVD implementations on sparse matrices
+![sparse](https://github.com/user-attachments/assets/851ef2f2-349e-4056-bd4e-b5a341d3a44a)
+
