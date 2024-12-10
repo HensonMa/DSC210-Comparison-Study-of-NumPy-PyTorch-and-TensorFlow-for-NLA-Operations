@@ -1,4 +1,4 @@
-# Performance-comparison-study-for-NumPy-PyTorch-and-TensorFlow-on-linear-algebra
+# DSC210: Comparison Study of NumPy, PyTorch, and TensorFlow for NLA Operations
 
 ### Course: DSC 210: Numerical Linear Algebra
 ### Instructor: Dr. Lily Weng
