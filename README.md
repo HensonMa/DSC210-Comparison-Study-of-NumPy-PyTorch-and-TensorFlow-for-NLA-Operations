@@ -9,6 +9,9 @@
   - torch
   - tensorflow
   - matplotlib
+  - scipy
+  - psutil
+  - gc
 
 - Ensure that CUDA is supported in your enviroment. 
 
