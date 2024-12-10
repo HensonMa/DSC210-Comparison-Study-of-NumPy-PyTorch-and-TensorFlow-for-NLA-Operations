@@ -44,8 +44,10 @@ Repeated matrix multiplication on GPU
 #### Eigenvalue decomposition (EVD)
 Performance comparison of NumPy (CPU), PyTorch (GPU), and TensorFlow (GPU) for EVD on 2D matrices
 <img width="671" alt="Screenshot 2024-12-10 at 1 14 52 PM" src="https://github.com/user-attachments/assets/0ed82d82-a7c8-4f94-925d-a75bfef4fc4b">
+
 Computation time comparison for PyTorch and TensorFlow on CPU and GPU
-<img width="671" alt="Screenshot 2024-12-10 at 1 14 34 PM" src="https://github.com/user-attachments/assets/61893829-5582-4a52-947f-43defde9ed30"
+<img width="725" alt="Screenshot 2024-12-10 at 1 14 34 PM" src="https://github.com/user-attachments/assets/0b3c2b31-8363-4e7d-87bd-66ebb0f22f34">
+
 Performance comparison of NumPy, PyTorch, and TensorFlow for 3D matrix EVD (on CPU)
 <img width="671" alt="EVD_results_3D" src="https://github.com/user-attachments/assets/0f0e0126-89a5-44d1-a1cc-6b06d96f7ce0">
 
