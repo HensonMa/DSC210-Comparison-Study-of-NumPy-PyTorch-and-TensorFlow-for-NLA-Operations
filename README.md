@@ -12,6 +12,7 @@
   - scipy
   - psutil
   - gc
+  - tracemalloc
 
 - Ensure that CUDA is supported in your environment. 
 
