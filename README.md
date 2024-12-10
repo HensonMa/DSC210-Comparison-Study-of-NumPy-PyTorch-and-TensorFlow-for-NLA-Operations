@@ -13,7 +13,7 @@
   - psutil
   - gc
 
-- Ensure that CUDA is supported in your enviroment. 
+- Ensure that CUDA is supported in your environment. 
 
 - Open each jupyter notebook file accordingly for different matrix operations and run all the cells of the notebook.
 
